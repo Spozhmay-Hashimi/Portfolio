@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SH monogram">
+  <defs>
+    <linearGradient id="shBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#392548"/>
+      <stop offset="55%" stop-color="#7950AC"/>
+      <stop offset="100%" stop-color="#B9A0E8"/>
+    </linearGradient>
+    <linearGradient id="shMoon" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EAE0F5" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#F9F6FC" stop-opacity=".75"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#shBg)"/>
+  <circle cx="368" cy="140" r="72" fill="url(#shMoon)" opacity=".22"/>
+  <text x="256" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="228" font-weight="700" letter-spacing="6" fill="#F9F6FC">SH</text>
+</svg>
